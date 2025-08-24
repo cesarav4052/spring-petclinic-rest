@@ -9,5 +9,7 @@ public class PetClinicApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PetClinicApplication.class, args);
+		//Comentario 01
+		System.out.println("Comentario 01");
 	}
 }
